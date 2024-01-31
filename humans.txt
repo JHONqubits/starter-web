@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jhon Chaparro		jhon.chaparro@qubitsenergy.com
 
 # THANKS
 
